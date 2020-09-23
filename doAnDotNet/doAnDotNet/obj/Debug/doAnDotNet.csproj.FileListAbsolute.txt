@@ -1,0 +1,53 @@
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.exe.config
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.exe
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.pdb
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.Properties.Resources.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.exe
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.pdb
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmConnect.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmMain.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmResetPass.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmDangNhap.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLBan.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLPhong.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmChuyenBan.resources
+C:\Users\Dell\Desktop\IT\Công nghệ .NET\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmGopBan.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.exe.config
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.exe
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.pdb
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.exe
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.pdb
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmChuyenBan.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmConnect.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmDangNhap.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmGopBan.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmMain.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLBan.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLPhong.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmResetPass.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.Properties.Resources.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.csproj.GenerateResource.Cache
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.RibbonForm1.resources
+C:\Users\DELL\Downloads\DeTai7\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmGioiThieu.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.exe.config
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.exe
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.pdb
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.exe
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\bin\Debug\doAnDotNet.pdb
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmChuyenBan.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmConnect.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmDangNhap.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmGioiThieu.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmGopBan.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmMain.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLBan.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLPhong.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmResetPass.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.Properties.Resources.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmGhiChu.resources
+C:\Users\Dell\Desktop\DeTai7\doAnDotNet\doAnDotNet\obj\Debug\doAnDotNet.frmQLNhaCungCap.resources
